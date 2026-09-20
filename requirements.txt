@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+pydantic
+sqlalchemy
+psycopg2-binarySet-Content -Path .gitignore -Value ".venv`nkumpama_budget.db`n__pycache__/"
